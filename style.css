@@ -1656,7 +1656,7 @@ footer {
     position: fixed;
     top: 0;
     left: 0;
-    background: linear-gradient(to right, #6794a7, #203a43, #0f2027);
+    background: linear-gradient(to right, #222628, #203a43, #0f2027);
     height: 100%;
     width: 100%;
     display: flex;
